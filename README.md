@@ -1,2 +1,2 @@
-# BlogPost
+# TechnicalBlogApplication
 Technical Blog Post
