@@ -1,2 +1,0 @@
-# TechnicalBlogApplication
-Technical Blog Post
